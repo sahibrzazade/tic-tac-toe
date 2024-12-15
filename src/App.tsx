@@ -1,6 +1,3 @@
-import { useEffect } from "react";
-
-import { useGlobalProvider } from "./context/GlobalProvider";
 import Gameboard from "./components/Gameboard";
 import Scoreboard from "./components/Scoreboard";
 
